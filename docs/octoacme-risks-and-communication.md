@@ -23,6 +23,7 @@ Maintain a simple table with:
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- Support Lead is responsible for customer-facing communications during incidents and releases
 
 ## Communication Templates
 Weekly Status Template:
@@ -39,4 +40,5 @@ Incident Communication
 
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
-- For security incidents, follow the security incident runbook and notify Security on-call
+- For security incidents, follow the security incident runbook, notify Security Champion and Security on-call
+- For customer-impacting incidents, notify Support Lead immediately so customer communications can be coordinated
